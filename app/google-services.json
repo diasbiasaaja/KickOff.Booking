@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "929677052029",
+    "firebase_url": "https://kickoff-booking-88767-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kickoff-booking-88767",
+    "storage_bucket": "kickoff-booking-88767.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929677052029:android:e54239d3b22e0234ffc914",
+        "android_client_info": {
+          "package_name": "com.example.kickoffbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9J04-TiOfDguHQkbhEcbt4fneR8H5PjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
